@@ -1,0 +1,25 @@
+[
+    {
+      "id": "1",
+      "title": "The Strength of a Mother",
+      "excerpt": "She stood tall in the hardest times...",
+      "content": "This is the full tribute to my mother who showed me how to be strong and kind...",
+      "author": "Gauri",
+      "date": "2025-04-25",
+      "category": "Inspiration",
+      "readingTime": 3,
+      "image": "/images/mom1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Mom’s Healing Touch",
+      "excerpt": "No medicine worked like her hugs...",
+      "content": "Full article describing how mom helped heal more than wounds...",
+      "author": "Rhea",
+      "date": "2025-04-26",
+      "category": "Health",
+      "readingTime": 2,
+      "image": "/images/mom2.jpg"
+    }
+  ]
+  
